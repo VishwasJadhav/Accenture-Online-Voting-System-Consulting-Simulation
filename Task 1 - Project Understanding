@@ -1,0 +1,64 @@
+# Task 1 – Project Understanding
+
+## Client
+Australian Federal Government
+
+## Project
+Design of a Secure Online Voting System
+
+## Project Context
+
+The Australian Federal Government plans to introduce a secure online voting system to improve accessibility and efficiency in elections.
+
+Accenture has been engaged as a technology consulting partner to analyze system requirements and design the core components of the platform.
+
+The system must ensure security, transparency, and reliability while allowing voters to participate digitally.
+
+---
+
+## Key Objectives
+
+• Provide a secure platform for online voting  
+• Manage voter eligibility and authentication  
+• Enable ballot creation and administration  
+• Allow voters to cast votes through a digital portal  
+• Store votes securely and generate election results  
+• Maintain audit logs for election transparency  
+
+---
+
+## Key System Modules
+
+### Secure Authentication Engine
+Handles identity verification and secure access for voters and administrators.
+
+### Voter Maintenance
+Maintains voter records and eligibility information.
+
+### Ballot Administration
+Allows administrators to create, configure, and publish ballots for elections.
+
+### Voter Portal
+Provides the interface where voters can view ballots and submit their votes.
+
+### Notification Engine
+Sends notifications to voters regarding elections and voting deadlines.
+
+### Ballot Tabulation
+Processes votes and generates election results.
+
+### Audit Reporting
+Tracks system activity to ensure election transparency and compliance.
+
+---
+
+## Consulting Objective
+
+The role of the consulting team is to analyze system requirements and design the architecture of the voting platform.
+
+This project focuses on:
+
+• Understanding the business problem  
+• Gathering functional requirements  
+• Designing system components  
+• Creating Agile user stories for development teams
