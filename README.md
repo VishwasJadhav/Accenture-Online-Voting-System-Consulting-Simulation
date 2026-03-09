@@ -36,6 +36,8 @@ Key system modules identified:
 • Ballot Tabulation Engine  
 • Audit Reporting System  
 
+#### 📂 [Task 1 - Files](https://github.com/VishwasJadhav/Accenture-Online-Voting-System-Consulting-Simulation/tree/main/Task%201%20-%20Understanding%20the%20Project%20)
+
 This stage focused on understanding the system scope and consulting engagement objectives.
 
 ---
@@ -51,6 +53,8 @@ Stakeholder questions were created to clarify system behavior related to:
 • Voter eligibility rules  
 • Ballot lifecycle management  
 • Security and audit requirements  
+
+#### 📂 [Task 2 - Files](https://github.com/VishwasJadhav/Accenture-Online-Voting-System-Consulting-Simulation/tree/main/Task%202%20-%20Requirements%20Gathering)
 
 The goal was to ensure all functional requirements were clearly defined before system design begins.
 
@@ -88,6 +92,7 @@ Key data tables defined:
 • Audit Logs  
 • Voting Records  
 
+#### 📂 [Task 3 - Files](https://github.com/VishwasJadhav/Accenture-Online-Voting-System-Consulting-Simulation/tree/main/Task%203%20-%20System%20Design)
 ---
 
 ## Task 4 — User Story Development
@@ -109,6 +114,7 @@ Users represented in the user stories include:
 • Voters  
 • System Administrators  
 
+#### 📂 [Task 4 - Files](https://github.com/VishwasJadhav/Accenture-Online-Voting-System-Consulting-Simulation/tree/main/Task%204%20-%20User%20stories)
 ---
 
 # Skills Demonstrated
