@@ -1,4 +1,4 @@
-# Accenture Online Voting System – Technology Consulting Simulation
+# Accenture Online Voting System - Technology Consulting Simulation
 
 This repository contains my work from the Accenture Technology Consulting Virtual Experience Program hosted on Forage.
 
@@ -22,7 +22,7 @@ Design a secure online voting platform capable of:
 
 # Project Tasks
 
-## Task 1 — Project Understanding
+## Task 1 - Project Understanding
 
 Reviewed the functional architecture of the Online Voting System.
 
@@ -42,7 +42,7 @@ This stage focused on understanding the system scope and consulting engagement o
 
 ---
 
-## Task 2 — Requirements Gathering
+## Task 2 - Requirements Gathering
 
 In this stage, functional requirements for the Ballot Administration module were analyzed.
 
@@ -60,7 +60,7 @@ The goal was to ensure all functional requirements were clearly defined before s
 
 ---
 
-## Task 3 — System Design
+## Task 3 - System Design
 
 A high-level design for the Ballot Administration module was developed.
 
@@ -95,7 +95,7 @@ Key data tables defined:
 #### 📂 [Task 3 - Files](https://github.com/VishwasJadhav/Accenture-Online-Voting-System-Consulting-Simulation/tree/main/Task%203%20-%20System%20Design)
 ---
 
-## Task 4 — User Story Development
+## Task 4 - User Story Development
 
 Functional requirements were converted into Agile user stories.
 
